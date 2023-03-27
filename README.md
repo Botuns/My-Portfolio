@@ -6,7 +6,7 @@
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=botuns&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
-<codersrank-timeline username="YOUR_USERNAME" type="workexperience"></codersrank-timeline>
+<codersrank-timeline username="botuns" type="workexperience"></codersrank-timeline>
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?botuns=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
 />
